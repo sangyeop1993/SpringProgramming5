@@ -36,7 +36,7 @@ public class Ch05Controller {
 		model.addAttribute("boardList", boardList);
 		model.addAttribute("totalNo", 100);
 		//return "ch05/getBoardList";
-		return "ch05/getBoardList2";
+		return "ch05/getBoardList";
 	}
 
 }
