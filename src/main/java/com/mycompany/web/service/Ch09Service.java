@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.mycompany.web.dao.Ch09Dao;
 
-@Service("ch09Service")
+@Service
 public class Ch09Service {
 	private static final Logger logger = LoggerFactory.getLogger(Ch09Service.class);
 	@Autowired
