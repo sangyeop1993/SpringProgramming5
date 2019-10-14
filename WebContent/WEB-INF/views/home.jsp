@@ -76,6 +76,7 @@
 						<li><a href="ch05/content" target="iframe">From Control to View Data Delivery</a></li>
 						<li><a href="ch06/content" target="iframe">Arguments and Return</a></li>
 						<li><a href="ch08/content" target="iframe">File Upload</a></li>
+						<li><a href="ch09/content" target="iframe">Dependency Injection</a></li>
 					</ul>
 				</div>
 				<div id="center">
