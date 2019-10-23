@@ -8,6 +8,5 @@
 	</head>
 	<body>
 		dispatcher2의 home
-		<a href="dispatcher2/method1">될까 과연</a>
 	</body>
 </html>

@@ -77,6 +77,7 @@
 						<li><a href="ch06/content" target="iframe">Arguments and Return</a></li>
 						<li><a href="ch08/content" target="iframe">File Upload</a></li>
 						<li><a href="ch09/content" target="iframe">Dependency Injection</a></li>
+						<li><a href="ch10/content" target="iframe">Database Access</a></li>
 					</ul>
 				</div>
 				<div id="center">
