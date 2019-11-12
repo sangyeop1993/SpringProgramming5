@@ -74,6 +74,20 @@
 		    <artifactId>mybatis-spring</artifactId>
 		    <version>2.0.2</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-websocket</artifactId>
+			<version>${spring-version}</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-websocket -->
+		<dependency>
+		    <groupId>org.apache.tomcat.embed</groupId>
+		    <artifactId>tomcat-embed-websocket</artifactId>
+		    <version>9.0.27</version>
+		</dependency>
+		
 	</dependencies>
 	<build>
 		<plugins>
