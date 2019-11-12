@@ -12,7 +12,7 @@ public class Ch11Controller {
 	
 	@RequestMapping("/content")
 	public String content() {
-		return "ch11/content";
+		return "ch11/contentWithChart";
 	}
 
 }

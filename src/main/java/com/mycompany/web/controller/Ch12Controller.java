@@ -15,7 +15,7 @@ public class Ch12Controller {
    private static final Logger log = LoggerFactory.getLogger(Ch10Controller.class);
    
    @Autowired
-   private Ch12MqttService mqttService;   
+   private Ch12MqttService mqttService;
    
    @RequestMapping("/content")
    public String content() {
